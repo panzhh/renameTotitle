@@ -1,0 +1,11 @@
+1: first install pdftitle using the command: pip install pdftitle
+
+2: run the program as:
+    python renameTotitle.py .         ### rename all the pdf file in current directory to its title.
+    python renameTotile.py file_name  ### rename the specified file_name, it should be a pdf file only. 
+    python renameTotile.py dir_name   ### rename all pdf file in the specified dir_name
+
+3: other issues:
+   I only tested in linux, not Windows. If you have any issues with this program, don't hesist to contact me at zhenehepan@gmail.com.
+
+
